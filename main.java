@@ -4,7 +4,6 @@ class Main {
 
     public static void main(String[] args) {
 
-        // Create a 3x3 array that represents our tic tac toe board
         // can modify to 5x5 or 9x9 by maintain the code
         // for the next update code, we ask for the length of board
 
